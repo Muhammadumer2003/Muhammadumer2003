@@ -1,4 +1,4 @@
-![github cover](https://github.com/Muhammadumer2003/Muhammadumer2003/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
+![github cover](https://private-user-images.githubusercontent.com/104893311/267769941-dead2d22-a0da-4ab1-8443-c7325b0a057e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU2MzY4MzIsIm5iZiI6MTcyNTYzNjUzMiwicGF0aCI6Ii8xMDQ4OTMzMTEvMjY3NzY5OTQxLWRlYWQyZDIyLWEwZGEtNGFiMS04NDQzLWM3MzI1YjBhMDU3ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwNlQxNTI4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NmMwNGVjYjdiMTIxMzA4OTRkZGRlYWU3MmIxMmZiMzExODM1NzA1MzMyY2YxOTMyNDhmZDI5ODgzYjhlOTlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VBPyQDGFI_bC-Eolwn80ugAfwGcFPPnXlUeugqFbfkg)
 <!-- 
 
 [![An image of @Muhammadumer2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Muhammadumer2003)](https://holopin.io/@Muhammadumer2003) -->
@@ -13,11 +13,11 @@
 
 - 👨‍💻 I’m currently working on **Automations using AI and LLMs**. 🐦🔧
 - 🚀 Additionally, I'm immersing myself in the art of **System Design**. ⚙️
-- 📚 I’m more interested in **Backend** technologies. 📤
+- 📚 I’m more interested in **FullStack** technologies. 📤
 - 💪🏼 Future Goals:
     - Dedicate more time to contributing to **Open-Source** technologies. 🌌
     - Develop Generative AI-based efficient services. 🤖
-    - Learn **GoLang** as a low-latency language. ⏱️
+    - Learn **PHP** as a low-latency language. ⏱️
 - ⚡ Fun fact: I love to use **HashMap** and **HashSet**. #️⃣
 
 <p>
@@ -29,13 +29,7 @@
 
 ## ⚙️GitHub Analytics
 
-<div align="center">
 
-[![Muhammadumer2003's GitHub | Stats](https://stats.quine.sh/Muhammadumer2003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Muhammadumer2003)
-
-[![Muhammadumer2003's GitHub | Languages Over Time](https://stats.quine.sh/Muhammadumer2003/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Muhammadumer2003)
-
-</div>
 
 
 <p align="center">  
@@ -48,6 +42,6 @@
 
 ## ⚡Recent GitHub Activity
  
-  [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammadumer2003&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![UMER's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammadumer2003&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
